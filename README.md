@@ -41,7 +41,7 @@ let u8a = encode('hello world');
 // ]
 
 // toFile
-require(fs).writeFileSync('o.png', u8a)
+require('fs').writeFileSync('o.png', u8a)
 
 // toBase64
 Buffer.from(u8a).toString('base64')
@@ -58,7 +58,7 @@ const { decode } =  require('text-pngify');
 // decode Uint8Array(PNG) => String
 
 //fromFile
-let text = decode(fs.readFileSync('o.png'))
+let text = decode(require('fs').readFileSync('o.png'))
 // "hello world"
 
 //fromBase64
