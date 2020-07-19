@@ -1,0 +1,23 @@
+{
+  "name": "text-pngify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengdi/text-pngify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengdi/text-pngify/issues"
+  },
+  "homepage": "https://github.com/fengdi/text-pngify#readme",
+  "dependencies": {
+    "fast-png": "^5.0.2"
+  }
+}
