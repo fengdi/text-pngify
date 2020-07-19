@@ -1,5 +1,15 @@
 # text-pngify
 
+Convert text to pixels and save to png file.
+
+hello world.png
+![hello world.png](https://img.alicdn.com/imgextra/i1/583325539/O1CN01bfzS8V1qmuQ8peJz8_!!583325539.png)
+
+
+
+I Have a Dream.png
+
+![I Have a Dream.png](https://img.alicdn.com/imgextra/i4/583325539/O1CN014YT3mm1qmuQ6aCw1d_!!583325539.png)
 
 
 
